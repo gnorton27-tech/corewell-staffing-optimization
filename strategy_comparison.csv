@@ -1,0 +1,6 @@
+strategy,scenario_id,regular_nurses,overtime_nurses,agency_nurses,staffing_cost_usd,safety_proxy_score
+Balanced,43,10,0,0,5760,88.2
+Equity (objective balance),43,10,0,0,5760,88.2
+Cost priority,97,7,0,0,4032,65.01
+Safety priority,82,15,1,1,10644,93.82
+Custom: 60% safety,43,10,0,0,5760,88.2
